@@ -11,4 +11,4 @@ function observer(changes) {
     })
 }
 
-Object.observer(o, observer);
+Object.observe(o, observer);
