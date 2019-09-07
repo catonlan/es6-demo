@@ -1,7 +1,7 @@
 var lastWord = "last word"
 
 var a = {
-    "first word": "hello"
+    "first word": "hello",
     [lastWord]:"world"
 }
 
